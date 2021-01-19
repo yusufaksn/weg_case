@@ -1,0 +1,45 @@
+.bg-img {
+    /* The image used */
+    background-image: url("../images/nav2.png");
+
+
+
+
+    color: white;
+    margin-top: 5px; !important;
+
+}
+.body{
+    background-color: #f2fde4;
+}
+.navTitle{
+    color: white;
+    margin-top: 10px;
+}
+
+.navMenuFont{
+
+}
+.headerTitle{
+    font-style: italic;
+    font-size: 22px;
+}
+.table{
+    margin-top: -0.99rem !important;
+    margin-left: -0.99rem !important;
+}
+.TableHeader{
+
+    margin-top: 5px; !important;
+    background-color: #41c300; !important;
+}
+.TitleAltLine{
+    background-color: white;!important;
+}
+.Dashboard{
+    margin-top: -0.99rem !important;
+    margin-right: 20px;
+}
+.Todo{
+    margin-right: 40px;!important
+}
